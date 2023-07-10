@@ -80,3 +80,29 @@ main{
 .discount-img{
   width: 318px;
 }
+
+.instagram-container{
+  margin: 128px auto;
+}
+
+.instagram-title{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.instagram-description{
+  margin: 24px auto 48px; 
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.instagram-images{
+  display: flex;
+  gap: 24px;
+  margin: 0px 240px;
+}
