@@ -97,6 +97,28 @@ main{
   text-decoration-line: underline;
 }
 
+/* second bonus section */
+.second-bonus-container{
+  margin: 128px 220px;
+  display: flex;
+  gap: 356px;
+  background: rgba(39, 39, 39, 0.05);
+  padding: 86px 175px;
+}
+
+.s-bonus-img{
+  display: block;
+  margin: 24px auto;
+}
+
+.s-bonus-description{
+  color: rgba(39, 39, 39, 0.80);
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+}
+
 /* discount section */
 .discount-container{
   background: rgba(229, 84, 115, 0.05);
